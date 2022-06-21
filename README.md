@@ -1,1 +1,1 @@
-# Flask-test
+# ElDorado a.k.a. Flask playground
